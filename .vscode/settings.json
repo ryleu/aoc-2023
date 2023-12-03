@@ -1,0 +1,8 @@
+{
+    "Lua.diagnostics.globals": [
+        "string_fix"
+    ],
+    "Lua.diagnostics.disable": [
+        "lowercase-global"
+    ]
+}
